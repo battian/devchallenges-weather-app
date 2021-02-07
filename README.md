@@ -25,7 +25,7 @@
 
 ## Overview
 
-![screenshot](https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/challengesDesigns%2FtodoThumbnail.png?alt=media&token=67a62272-6021-49de-ab19-cda0344d643c)
+![screenshot](https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/challengesDesigns%2FweatherThumbnail.png?alt=media&token=7645edd7-df0f-4ea1-9a8c-2bab7fe01431)
 
 ### Built With
 
